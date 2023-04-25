@@ -1,0 +1,19 @@
+form{
+    width: 300px;
+    font: 15px arial;
+    margin: auto;
+    margin-top: 100px;
+    border: 2px solid rgb(248, 7, 140);
+    padding: 30px;
+    box-shadow: 20px 20px 20px ;
+}
+fieldset{
+    background-color: rgb(138, 248, 248);
+}
+
+body{ 
+    background-color: rgb(196, 244, 250) ;
+}
+
+
+
